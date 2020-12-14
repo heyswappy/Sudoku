@@ -1,9 +1,9 @@
-# sudoku
-solves sudoku problem
+# Sudoku
+Solves sudoku problem
 
-concepts used:
-recursion
-backtracking
+Concepts used:
+* Recursion
+* Backtracking
 
 Contains the C source code and .exe file corresponding to it and 6 testcases as .txt files
 
